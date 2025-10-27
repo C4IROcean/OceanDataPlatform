@@ -5,16 +5,9 @@ Welcome to Workspaces! A JupyterHub environment where you can directly access th
 Please find relevant notebooks to get you started and don't forget to check out our [documentation](https://docs.hubocean.earth/)
 
 ## Example Notebooks
-We provide a number of example notebooks to get you going with Ocean Data Platform and are always adding new ones as we deploy new features. These are contained in two folders.
+We provide a number of example notebooks to get you going with Ocean Data Platform and are always adding new ones as we deploy new features.
 
-#### Dataset Examples
-- Pull data from the ODP APIs from various datasets: EMODnetHumanActivities_access_data.ipynb, SeamountsDatabase_access_data.ipynb
-- Query data with geospatial tools with the ODP APIs: ProtectedSeas_data.ipynb, PGS_CTDBiotaADCP_access_data.ipynb
-- Combine data from ODP with external data: PGS_OBIS_combination.ipynb
-
-#### Workflow Examples
-- Upload raw data files into ODP: raw_file_upload.ipynb
-- Upload a tabular data example to ODP: tabular-data-upload-ILIAD-example
+The examples cover the two types of data, Table (Tabular) and Files, that you work with in ODP and addresses both read and write scenarios.
 
 <br><br>
 
